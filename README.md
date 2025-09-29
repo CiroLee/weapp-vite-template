@@ -1,6 +1,6 @@
 # weapp-vite-template
 
-修改版-增加一些配置： eslint
+修改版-增加一些配置： eslint, prettier, husky, commitlint等
 
 `weapp-vite` 模板
 
