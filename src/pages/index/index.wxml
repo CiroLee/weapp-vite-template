@@ -1,0 +1,9 @@
+<view>
+  <Navbar />
+  <view style="display:flex;align-items:center;justify-content:center;">
+    <view>
+      <image style="width:200rpx;height:190rpx" src="/logo.png" />
+      <view class="text" bind:tap="onClick">Hello World From Weapp-vite!adasdasd </view>
+    </view>
+  </view>
+</view>

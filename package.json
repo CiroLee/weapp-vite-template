@@ -1,0 +1,37 @@
+{
+  "name": "weapp-vite-template",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "CiroLee",
+    "email": "ciromail@126.com"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "dev": "weapp-vite dev",
+    "dev:open": "weapp-vite dev -o",
+    "build": "weapp-vite build",
+    "open": "weapp-vite open",
+    "g": "weapp-vite generate",
+    "lint": "eslint --config eslint.config.mjs src",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/config-conventional": "^20.0.0",
+    "@eslint/js": "^9.36.0",
+    "@typescript-eslint/eslint-plugin": "^8.44.1",
+    "commitlint": "^20.0.0",
+    "eslint": "^9.36.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^16.4.0",
+    "husky": "^9.1.7",
+    "miniprogram-api-typings": "^4.1.0",
+    "prettier": "^3.6.2",
+    "sass": "^1.93.0",
+    "typescript": "^5.9.2",
+    "typescript-eslint": "^8.44.1",
+    "weapp-vite": "5.1.8"
+  }
+}
