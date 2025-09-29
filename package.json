@@ -8,7 +8,12 @@
     "email": "ciromail@126.com"
   },
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "weapp",
+    "vite",
+    "template",
+    "miniprogram"
+  ],
   "scripts": {
     "dev": "weapp-vite dev",
     "dev:open": "weapp-vite dev -o",
@@ -32,6 +37,6 @@
     "sass": "^1.93.0",
     "typescript": "^5.9.2",
     "typescript-eslint": "^8.44.1",
-    "weapp-vite": "5.1.8"
+    "weapp-vite": "^5.1.8"
   }
 }
