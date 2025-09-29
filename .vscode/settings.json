@@ -4,6 +4,7 @@
     "source.fixAll.eslint": "explicit",
     "source.fixAll.stylelint": "explicit"
   },
+  "prettier.documentSelectors": ["**/*.wxml"],
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "editor.formatOnSave": true
 }

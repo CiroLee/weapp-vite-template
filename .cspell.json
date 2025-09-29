@@ -1,4 +1,4 @@
 {
-  "ignoreWords": ["weapp", "miniprogram", "commitlint"],
+  "ignoreWords": ["weapp", "miniprogram", "commitlint", "wxml"],
   "ignorePaths": ["project.config.json", "project.private.config.json"]
 }
